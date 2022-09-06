@@ -1,0 +1,15 @@
+C:\Users\Hassan\source\repos\Car Race\Car Race\bin\Debug\Car Race.exe.config
+C:\Users\Hassan\source\repos\Car Race\Car Race\bin\Debug\Car Race.exe
+C:\Users\Hassan\source\repos\Car Race\Car Race\bin\Debug\Car Race.pdb
+C:\Users\Hassan\source\repos\Car Race\Car Race\obj\Debug\MainWindow.g.cs
+C:\Users\Hassan\source\repos\Car Race\Car Race\obj\Debug\App.g.cs
+C:\Users\Hassan\source\repos\Car Race\Car Race\obj\Debug\Car Race_MarkupCompile.cache
+C:\Users\Hassan\source\repos\Car Race\Car Race\obj\Debug\Car Race_MarkupCompile.lref
+C:\Users\Hassan\source\repos\Car Race\Car Race\obj\Debug\MainWindow.baml
+C:\Users\Hassan\source\repos\Car Race\Car Race\obj\Debug\Car Race.g.resources
+C:\Users\Hassan\source\repos\Car Race\Car Race\obj\Debug\Car_Race.Properties.Resources.resources
+C:\Users\Hassan\source\repos\Car Race\Car Race\obj\Debug\Car Race.csproj.GenerateResource.cache
+C:\Users\Hassan\source\repos\Car Race\Car Race\obj\Debug\Car Race.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\source\repos\Car Race\Car Race\obj\Debug\Car Race.exe
+C:\Users\Hassan\source\repos\Car Race\Car Race\obj\Debug\Car Race.pdb
+C:\Users\Hassan\source\repos\Car Race\Car Race\obj\Debug\Car Race.csprojAssemblyReference.cache
